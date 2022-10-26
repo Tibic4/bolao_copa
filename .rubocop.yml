@@ -15,16 +15,16 @@ Naming/VariableNumber:
   Enabled: false
 
 Rails/ContentTag:
-  Enabled: false
+  Enabled: false 
 
 Style/Documentation:
   Enabled: false
 
 Style/ClassAndModuleChildren:
-  Enabled: false
+  Enabled: false 
 
 Style/ColonMethodCall:
-  Enabled: false
+  Enabled: false 
 
 Style/EmptyMethod:
   EnforcedStyle: expanded
@@ -39,4 +39,4 @@ Style/RedundantReturn:
   AllowMultipleReturnValues: true
 
 GitHub/RailsControllerRenderPathsExist:
-  Enabled: false
+  Enabled: false 
